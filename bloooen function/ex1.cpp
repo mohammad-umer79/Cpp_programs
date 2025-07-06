@@ -8,5 +8,6 @@ bool isFishTasty = false;
 
     cout<<isFishTasty<<endl;
     cout<< isCodingFun<<endl;
+    
 return 0;
 }
